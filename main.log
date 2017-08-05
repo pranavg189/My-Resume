@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.4.23)  23 JUN 2017 14:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.4.23)  5 AUG 2017 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -325,23 +325,23 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
-Overfull \hbox (11.57288pt too wide) in paragraph at lines 102--102
+Overfull \hbox (11.57288pt too wide) in paragraph at lines 101--101
 []\OT1/cmr/m/sc/12 Achievements  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 112.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
  5670 strings out of 493013
  84233 string characters out of 6139317
- 172382 words of memory out of 5000000
+ 173382 words of memory out of 5000000
  9176 multiletter control sequences out of 15000+600000
  8195 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -350,10 +350,10 @@ Here is how much of TeX's memory you used:
 texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (1 page, 56826 bytes).
+Output written on main.pdf (1 page, 57623 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
